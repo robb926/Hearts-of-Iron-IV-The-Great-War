@@ -15,6 +15,7 @@ state={
 		1936.1.1={ 
 			owner=YUG
 			add_core_of=YUG
+			add_core_of=ITA
 			add_core_of=CRO
 			victory_points={ 3924 1 }
 			buildings={
