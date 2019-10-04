@@ -230,10 +230,10 @@ ITA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
  ITA_ww1_sovereignist_ethos:0 "Sovereignist Ethos"
  ITA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
 
- ITA_ww1_support_republic:0 "Reinforce the Republic's Authority"
+ ITA_ww1_support_republic:0 "Reinforce the Parliament's Authority"
  ITA_ww1_support_republic_desc:0 "" #KAISER_ANONY
 
- ITA_ww1_contest_republic:0 "Contest the Republic's Authority"
+ ITA_ww1_contest_republic:0 "Contest the Parliament's Authority"
  ITA_ww1_contest_republic_desc:0 "" #KAISER_ANONY
 
  ITA_ww1_internationalism_focus:0 "Internationalism Focus"
@@ -412,7 +412,7 @@ ITA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
  ITA_ww1_egypt:0 "Claim Egypt"
  ITA_ww1_egypt_desc:0 "" #KAISER_ANONY
 
- ITA_ww1_french_claims:0 "Claim Savoy"
+ ITA_ww1_french_claims:0 "Claim Nice and Savoy"
  ITA_ww1_french_claims_desc:0 "" #KAISER_ANONY
 
  ITA_ww1_tunisia:0 "Claim North Africa"
@@ -457,22 +457,22 @@ ITA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
  ITA_ww1_libyan_claims:0 "Libyan Claims"
  ITA_ww1_libyan_claims_desc:0 "" #KAISER_ANONY
 
- ITA_ww1_italian_develop_tripoli:0 "Develop Tripoli"
+ ITA_ww1_italian_develop_tripoli:0 "Develop Tripolitania"
  ITA_ww1_italian_develop_cyrenaica:0 "Develop Cyrenaica"
 
- ITA_ww1_italian_fortify_tripoli:0 "Fortify Tripoli"
+ ITA_ww1_italian_fortify_tripoli:0 "Fortify Tripolitania"
  ITA_ww1_italian_fortify_tripoli_desc:0 "" #KAISER_ANONY
 
  ITA_ww1_italian_fortify_cyrenaica:0 "Fortify Cyrenaica"
  ITA_ww1_italian_fortify_cyrenaica_desc:0 "" #KAISER_ANONY
 
- ITA_ww1_italian_military_tripoli:0 "Militarize Tripoli"
+ ITA_ww1_italian_military_tripoli:0 "Militarize Tripolitania"
  ITA_ww1_italian_military_tripoli_desc:0 "" #KAISER_ANONY
 
  ITA_ww1_italian_military_cyrenaica:0 "Militarize Cyrenaica" 
  ITA_ww1_italian_military_cyrenaica_desc:0 "" #KAISER_ANONY 
 
- ITA_ww1_italian_civil_tripoli:0 "Civilian Industry Tripoli"
+ ITA_ww1_italian_civil_tripoli:0 "Civilian Industry Tripolitania"
  ITA_ww1_italian_civil_tripoli_desc:0 "" #KAISER_ANONY
 
  ITA_ww1_italian_civil_cyrenaica:0 "Civilian Industry Cyrenaica"
